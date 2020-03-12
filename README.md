@@ -1,9 +1,35 @@
-# Covid19Kg
-## 2019nCoV.rdf 新型冠状病毒肺炎诊疗方案1-7整合版
-## 2019nCoV_ver1.rdf 新型冠状病毒肺炎诊疗方案_试行第1版
-## 2019nCoV_ver2.rdf 新型冠状病毒肺炎诊疗方案_试行第2版
-## 2019nCoV_ver3.rdf 新型冠状病毒肺炎诊疗方案_试行第3版
-## 2019nCoV_ver4.rdf 新型冠状病毒肺炎诊疗方案_试行第4版
-## 2019nCoV_ver5.rdf 新型冠状病毒肺炎诊疗方案_试行第5版
-## 2019nCoV_ver6.rdf 新型冠状病毒肺炎诊疗方案_试行第6版
-## 2019nCoV_ver7.rdf 新型冠状病毒肺炎诊疗方案_试行第7版
+在<b>新型冠状病毒肺炎诊疗方案.rar</b>中，包含8个文件：
+<table>
+  <tr>
+    <td>2019nCoV.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案1-7整合版</td>
+  </tr>
+  <tr>
+    <td>2019nCoV_ver1.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案_试行第1版</td>
+  </tr>
+  <tr>
+    <td>2019nCoV_ver2.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案_试行第2版</td>
+  </tr>
+  <tr>
+    <td>2019nCoV_ver3.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案_试行第3版</td>
+  </tr>
+  <tr>
+    <td>2019nCoV_ver4.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案_试行第4版</td>
+  </tr>
+  <tr>
+    <td>2019nCoV_ver5.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案_试行第5版</td>
+  </tr>
+  <tr>
+    <td>2019nCoV_ver6.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案_试行第6版</td>
+  </tr>
+  <tr>
+    <td>2019nCoV_ver7.rdf</td>
+    <td>新型冠状病毒肺炎诊疗方案_试行第7版</td>
+  </tr>
+</table>  
