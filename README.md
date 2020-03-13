@@ -11,7 +11,7 @@
     <td>0</td>
     <td>2019nCoV.nq</td>
     <td>新型冠状病毒肺炎诊疗方案1-7整合版</td>
-    <td rowspan="8"><a href="http://47.94.47.46:8086/" target="_blank">点击</a></td>
+    <td rowspan="8"><a href="http://47.94.47.46:8086/" target='_blank'>点击</a></td>
   </tr>
   <tr>
     <td>1</td>
