@@ -7,42 +7,42 @@
     <td>可视化链接</td>
   </tr>
   <tr>
-    <td>2019nCoV.rdf</td>
+    <td>2019nCoV.nq</td>
     <td>新型冠状病毒肺炎诊疗方案1-7整合版</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>2019nCoV_ver1.rdf</td>
+    <td>2019nCoV_ver1.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第1版</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>2019nCoV_ver2.rdf</td>
+    <td>2019nCoV_ver2.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第2版</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>2019nCoV_ver3.rdf</td>
+    <td>2019nCoV_ver3.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第3版</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>2019nCoV_ver4.rdf</td>
+    <td>2019nCoV_ver4.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第4版</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>2019nCoV_ver5.rdf</td>
+    <td>2019nCoV_ver5.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第5版</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>2019nCoV_ver6.rdf</td>
+    <td>2019nCoV_ver6.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第6版</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>2019nCoV_ver7.rdf</td>
+    <td>2019nCoV_ver7.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第7版</td>
     <td>TBD</td>
   </tr>
