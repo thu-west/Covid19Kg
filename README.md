@@ -19,37 +19,37 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>2019nCoV_ver1.nq</td>
+    <td>2019nCoV1.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第1版</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>2019nCoV_ver2.nq</td>
+    <td>2019nCoV2.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第2版</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>2019nCoV_ver3.nq</td>
+    <td>2019nCoV3.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第3版</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>2019nCoV_ver4.nq</td>
+    <td>2019nCoV4.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第4版</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>2019nCoV_ver5.nq</td>
+    <td>2019nCoV5.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第5版</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>2019nCoV_ver6.nq</td>
+    <td>2019nCoV6.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第6版</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>2019nCoV_ver7.nq</td>
+    <td>2019nCoV7.nq</td>
     <td>新型冠状病毒肺炎诊疗方案_试行第7版</td>
   </tr>
 </table>
