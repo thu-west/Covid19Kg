@@ -213,4 +213,4 @@ __系统功能修订历史：__
 </ul>
 
 ## 联系方式
-盛老师：shengming@tsinghua.edu.cn
+您有什么意见和建议，请联系 盛老师：shengming@tsinghua.edu.cn
