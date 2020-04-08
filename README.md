@@ -13,7 +13,9 @@
 * [联系方式](#联系方式)
 
 ## 图谱的可视化浏览查询和问答系统
-<a href="http://121.42.150.214:8086/" target='_blank'>请点击进入</a>
+中文版：<a href="http://121.42.150.214:8086/" target='_blank'>请点击进入</a>
+
+English: <a href="http://121.42.150.214:8086/enindex.html" target='_blank'>Please click to enter</a>
 
 __系统功能修订历史：__
 * 2020-04-02：
