@@ -18,6 +18,8 @@
 
 English: <a href="http://121.42.150.214:8086/enindex.html" target='_blank'>Please click to enter</a>
 
+系统演示视频：<a href="https://cloud.tsinghua.edu.cn/f/0c68a1c3111746f0bee0/">观看</a>
+
 __系统功能修订历史：__
 * 2020-04-16：
 数据进一步的清洗和整理。主界面改版。一对多、多对多的关系展示。定制查询的图形化界面展示。
